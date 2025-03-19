@@ -1,0 +1,3 @@
+[submodule "ditto-talkinghead"]
+	path = ditto-talkinghead
+	url = https://github.com/antgroup/ditto-talkinghead
